@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
                     The HUD is meant as a replacement for the undocumented, private UIKit UIProgressHUD
                     with some additional features.
                    DESC
-  s.homepage     = "http://www.bukovinski.com"
+  s.homepage     = "https://github.com/matej/MBProgressHUD"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { 'Matej Bukovinski' => 'matej@bukovinski.com' }
   s.source       = { :git => "https://github.com/matej/MBProgressHUD.git", :tag => s.version.to_s }
